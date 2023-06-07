@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class A01_Build_Array_from_Permutation {
     public int[] buildArray(int[] nums) {
         int[] d = new int[nums.length];

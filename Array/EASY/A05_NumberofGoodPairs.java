@@ -12,12 +12,14 @@ public class A05_NumberofGoodPairs {
             for (int j = i + 1; j < nums.length; j++) {
                 if (nums[i] == nums[j]) {
                     count++;
+               
                 }
             }
         }
         return count;
     }
 }
+
 /*
  * Input: nums = [1,2,3,1,1,3]
 Output: 4
