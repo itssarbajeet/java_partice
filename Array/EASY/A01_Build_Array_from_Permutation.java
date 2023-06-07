@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Build_Array_from_Permutation {
+public class A01_Build_Array_from_Permutation {
     public int[] buildArray(int[] nums) {
         int[] d = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
@@ -11,7 +11,7 @@ public class Build_Array_from_Permutation {
     public static void main(String[] args) {
         // Example usage
         int[] nums = {0, 2, 1, 5, 3, 4};
-        Build_Array_from_Permutation solution = new Build_Array_from_Permutation();
+        A01_Build_Array_from_Permutation solution = new A01_Build_Array_from_Permutation();
         int[] result = solution.buildArray(nums);
         
         // Print the result

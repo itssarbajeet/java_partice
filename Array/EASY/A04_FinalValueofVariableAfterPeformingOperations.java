@@ -11,11 +11,10 @@ value of the + 45 is and - is  43
  */
  
  //my logic 
- public class FinalValueofVariableAfterPeformingOperations {
+ public class A04_FinalValueofVariableAfterPeformingOperations {
     public static void main(String[] args) {
-        FinalValueofVariableAfterPeformingOperations solution = new FinalValueofVariableAfterPeformingOperations();
+        A04_FinalValueofVariableAfterPeformingOperations solution = new A04_FinalValueofVariableAfterPeformingOperations();
         
-        // Example usage:
         String[] operations = {"++X", "--X", "X++", "++X"};
         int finalValue = solution.finalValueAfterOperations(operations);
         System.out.println("Final Value: " + finalValue);

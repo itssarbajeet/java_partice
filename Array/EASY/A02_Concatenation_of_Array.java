@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Concatenation_of_Array {
+public class A02_Concatenation_of_Array {
     public int[] getConcatenation(int[] nums) {
         int[] c = new int[nums.length * 2];
         for (int i = 0; i < nums.length; i++) {
@@ -13,7 +13,7 @@ public class Concatenation_of_Array {
     public static void main(String[] args) {
         // Example usage
         int[] nums = {1, 2, 3};
-        Concatenation_of_Array solution = new Concatenation_of_Array();
+        A02_Concatenation_of_Array solution = new A02_Concatenation_of_Array();
         int[] result = solution.getConcatenation(nums);
 
         // Print the result

@@ -1,4 +1,4 @@
-public class ShuffletheArray {
+public class A03_ShuffletheArray {
     public static int[] shuffle(int[] nums, int n) {
         int[] result = new int[nums.length];
         for (int i = 0; i < n; i++) {
