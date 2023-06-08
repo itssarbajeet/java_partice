@@ -8,7 +8,7 @@ class Solution {
             for (int j = i + 1; j < nums.length; j++) {
                 rightSum += nums[j];
             }
-            for (int k = 0; k < i; k++) {
+            for (int k = i; k < i; k++) {
                 leftSum += nums[k];
             }
             arr[i] = Math.abs(rightSum - leftSum);
