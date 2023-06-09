@@ -26,6 +26,10 @@ class Solution {
             System.out.print(result[i] + " ");
         }
     }
+
+    public int mostWordsFound(String[] sentences) {
+        return 0;
+    }
 }
 /* OPTIMIZED CODE 
  * class Solution {
