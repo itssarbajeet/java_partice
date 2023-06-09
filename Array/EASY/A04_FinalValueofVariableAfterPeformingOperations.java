@@ -2,12 +2,13 @@
  * class Solution {
     public int finalValueAfterOperations(String[] operations) {
         int x = 0;
-        for(String o : operations) x += (44 - o.charAt(1));
+        for(String o : operations) 
+            x += (((int)',') - o.charAt(1));
         return x;
     }
     
 }
-value of the + 45 is and - is  43
+value of the + 43 is and - is  45
  */
  
  //my logic 
