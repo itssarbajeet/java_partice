@@ -30,6 +30,10 @@ class Solution {
     public int mostWordsFound(String[] sentences) {
         return 0;
     }
+
+    public int[] smallerNumbersThanCurrent(int[] nums) {
+        return null;
+    }
 }
 /* OPTIMIZED CODE 
  * class Solution {
