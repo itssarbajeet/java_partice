@@ -13,7 +13,6 @@ public class A07_RichestCustomerWealth {
             }
             return max;
         }
-    
         public static void main(String[] args) {
             // Example usage
             A07_RichestCustomerWealth solution = new A07_RichestCustomerWealth();
