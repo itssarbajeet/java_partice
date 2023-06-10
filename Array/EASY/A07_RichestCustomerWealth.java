@@ -26,7 +26,6 @@ public class A07_RichestCustomerWealth {
         }
     }
     
-    
 
 /*
  * Input: accounts = [[1,2,3],[3,2,1]]
