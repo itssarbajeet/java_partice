@@ -9,8 +9,6 @@ public class A02_Concatenation_of_Array {
         }
         return c;
     }
-
-    
     public static void main(String[] args) {
         // Example usage
         int[] nums = {1, 2, 3};
