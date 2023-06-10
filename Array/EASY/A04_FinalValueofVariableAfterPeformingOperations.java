@@ -20,7 +20,6 @@ value of the + 43 is and - is  45
         int finalValue = solution.finalValueAfterOperations(operations);
         System.out.println("Final Value: " + finalValue);
     }
-    
     public int finalValueAfterOperations(String[] operations) {
         int X = 0;
         for (String operation : operations) {
