@@ -15,7 +15,6 @@ class Solution {
         }
         return arr;
     }
-
     public static void main(String[] args) {
         // Example usage
         Solution solution = new Solution();
