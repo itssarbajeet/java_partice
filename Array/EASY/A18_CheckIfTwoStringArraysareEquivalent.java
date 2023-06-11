@@ -5,7 +5,7 @@ class A18_CheckIfTwoStringArraysareEquivalent{
         A18_CheckIfTwoStringArraysareEquivalent solution = new A18_CheckIfTwoStringArraysareEquivalent();
         boolean areEqual = solution.arrayStringsAreEqual(word1, word2);
         System.out.println("Are equal: " + areEqual);
-    }
+    } 
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
         StringBuilder str1 = new StringBuilder();
         StringBuilder str2 = new StringBuilder();
