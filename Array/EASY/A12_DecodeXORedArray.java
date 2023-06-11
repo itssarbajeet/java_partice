@@ -13,7 +13,6 @@ public class A12_DecodeXORedArray {
 
     public static void main(String[] args) {
         A12_DecodeXORedArray solution = new A12_DecodeXORedArray();
-
         int[] encoded = {6,2,7,3};
         int first = 4;
 
