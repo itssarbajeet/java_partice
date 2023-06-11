@@ -12,8 +12,7 @@ public class A11_HowManyNumbersAreSmallerThantheCurrentNumber {
             }
             
             arr[i] = count;
-        }
-        
+        } 
         return arr;
     }
     
