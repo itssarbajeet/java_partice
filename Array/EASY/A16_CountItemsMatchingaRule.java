@@ -14,7 +14,6 @@ public class A16_CountItemsMatchingaRule {
 
     public static void main(String[] args) {
         A16_CountItemsMatchingaRule solution = new A16_CountItemsMatchingaRule();
-
         List<List<String>> items = List.of(
                 List.of("phone", "blue", "pixel"),
                 List.of("laptop", "silver", "macbook"),
