@@ -5,7 +5,6 @@ public class A05_NumberofGoodPairs {
         int numGoodPairs = solution.numIdenticalPairs(nums);
         System.out.println("Number of Good Pairs: " + numGoodPairs);
     }
-    
     public int numIdenticalPairs(int[] nums) {
         int count = 0;
         for (int i = 0; i < nums.length; i++) {
