@@ -8,7 +8,6 @@ public class A14_ShuffleString {
         
         return new String(restored);
     }
-    
     public static void main(String[] args) {
         A14_ShuffleString solution = new A14_ShuffleString();
         
