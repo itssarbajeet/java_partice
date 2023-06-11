@@ -5,7 +5,7 @@ class A17_DifferenceBetweenElementSumandDigitSumofanArray{
         int difference = solution.differenceOfSum(nums);
         System.out.println("Difference of Sum: " + difference);
     }
- 
+  
     public int differenceOfSum(int[] nums) {
         int digitSum = 0, elementSum = 0;
         for (int i = 0; i < nums.length; i++) {
