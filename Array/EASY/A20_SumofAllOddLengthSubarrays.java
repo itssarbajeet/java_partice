@@ -19,7 +19,7 @@ class A20_SumofAllOddLengthSubarrays{
 
         return sum;
     }
-}
+} 
 /*
  * OPTIMISED CODE 
  * class Solution {
