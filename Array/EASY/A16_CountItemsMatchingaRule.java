@@ -27,7 +27,7 @@ public class A16_CountItemsMatchingaRule {
         System.out.println("Number of matches: " + matches);
     }
 }
-
+ 
 /*
  * Example 1:
 
