@@ -43,6 +43,32 @@ public class A22_LargestLocalValuesinaMatrix {
     }
 }
 /*
+optimised code 
+class Solution {
+   public int[][] largestLocal(int[][] grid) {
+        int n = grid.length;
+        int[][] ans = new int[n - 2][n - 2];
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = 0; j < n - 2; j++) {
+                ans[i][j] = getMax(grid, i+1, j+1);
+            }
+        }
+        return ans;
+    }
+
+    private int getMax(int[][] grid, int i, int j) {
+        int max = grid[i][j];
+        max = Math.max(max, grid[i][j - 1]);
+        max = Math.max(max, grid[i - 1][j - 1]);
+        max = Math.max(max, grid[i - 1][j]);
+        max = Math.max(max, grid[i - 1][j + 1]);
+        max = Math.max(max, grid[i][j + 1]);
+        max = Math.max(max, grid[i + 1][j + 1]);
+        max = Math.max(max, grid[i + 1][j]);
+        max = Math.max(max, grid[i + 1][j - 1]);
+        return max;
+    }
+}
  * Input: grid = [[1,1,1,1,1],[1,1,1,1,1],[1,1,2,1,1],[1,1,1,1,1],[1,1,1,1,1]]
 Output: [[2,2,2],[2,2,2],[2,2,2]]
 Explanation: Notice that the 2 is contained within every contiguous 3 x 3 matrix in grid.
