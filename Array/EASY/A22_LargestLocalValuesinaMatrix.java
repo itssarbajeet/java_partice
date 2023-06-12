@@ -40,7 +40,7 @@ public class A22_LargestLocalValuesinaMatrix {
         }
 
         return arr;
-    }
+    } 
 }
 /*
 optimised code to be remembered *
