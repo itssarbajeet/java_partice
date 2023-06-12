@@ -24,7 +24,7 @@ public class Main {
     }
 }
 }
-/*
+/* 
  * Input: nums = [0,1,4,6,7,10], diff = 3
 Output: 2
 Explanation:
