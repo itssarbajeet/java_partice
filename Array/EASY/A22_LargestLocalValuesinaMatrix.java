@@ -1,0 +1,44 @@
+public class A22_LargestLocalValuesinaMatrix {
+    public static void main(String[] args) {
+        int[][] grid = {
+            {1, 2, 3, 4, 5},
+            {6, 7, 8, 9, 10},
+            {11, 12, 13, 14, 15},
+            {16, 17, 18, 19, 20},
+            {21, 22, 23, 24, 25}
+        };
+
+        A22_LargestLocalValuesinaMatrix solution = new A22_LargestLocalValuesinaMatrix();
+        int[][] largestLocalGrid = solution.largestLocal(grid);
+
+        for (int i = 0; i < largestLocalGrid.length; i++) {
+            for (int j = 0; j < largestLocalGrid[i].length; j++) {
+                System.out.print(largestLocalGrid[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+
+    public int[][] largestLocal(int[][] grid) {
+        int n = grid.length;
+        int[][] arr = new int[n - 2][n - 2];
+
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = 0; j < n - 2; j++) {
+                arr[i][j] = Integer.MIN_VALUE;
+            }
+        }
+
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = 0; j < n - 2; j++) {
+                for (int k = i; k < i + 3; k++) {
+                    for (int l = j; l < j + 3; l++) {
+                        arr[i][j] = Math.max(arr[i][j], grid[k][l]);
+                    }
+                }
+            }
+        }
+
+        return arr;
+    }
+}
