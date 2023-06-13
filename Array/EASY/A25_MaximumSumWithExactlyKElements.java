@@ -40,5 +40,6 @@ For the second iteration, we choose 6. Then sum is 5 + 6 and nums = [1,2,3,4,7]
 For the third iteration, we choose 7. Then sum is 5 + 6 + 7 = 18 and nums = [1,2,3,4,8]
 So, we will return 18.
 It can be proven, that 18 is the maximum answer that we can achieve.
+
  */
 
