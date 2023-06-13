@@ -18,5 +18,5 @@ class A18_CheckIfTwoStringArraysareEquivalent{
         }
         return str2.toString().equals(str1.toString());
     }
-}
+} 
  
