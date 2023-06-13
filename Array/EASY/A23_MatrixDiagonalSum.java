@@ -14,7 +14,7 @@ public class A23_MatrixDiagonalSum {
         }
 
         return sum;
-    }
+    } 
 
     public static void main(String[] args) {
         // Example usage
