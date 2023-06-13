@@ -7,7 +7,6 @@ class A25_MaximumSumWithExactlyKElements{
         int result = solution.maximizeSum(nums, k);
         System.out.println("Maximized sum: " + result);
     }
-
     public int maximizeSum(int[] nums, int k) {
         int max = nums[0];
         int sum = 0;
