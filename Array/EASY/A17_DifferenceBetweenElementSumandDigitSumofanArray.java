@@ -19,7 +19,7 @@ class A17_DifferenceBetweenElementSumandDigitSumofanArray{
         digitSum = Math.abs(elementSum - digitSum);
         return digitSum;
     } 
-}
+} 
 /*
  * Input: nums = [1,15,6,3]
 Output: 9
