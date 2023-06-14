@@ -19,7 +19,7 @@ public class A16_CountItemsMatchingaRule {
                 List.of("laptop", "silver", "macbook"),
                 List.of("watch", "black", "rolex")
         );
-
+ 
         String ruleKey = "color";
         String ruleValue = "blue";
 
