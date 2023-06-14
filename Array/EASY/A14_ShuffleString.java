@@ -17,7 +17,7 @@ public class A14_ShuffleString {
         
         String restoredString = solution.restoreString(s, indices);
         System.out.println(restoredString);
-    }
+    } 
 }
 /*
  * Input: s = "codeleet", indices = [4,5,6,7,0,2,1,3]
