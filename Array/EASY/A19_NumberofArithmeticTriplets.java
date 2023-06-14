@@ -21,7 +21,7 @@ public class Main {
         A19_NumberofArithmeticTriplets solution = new A19_NumberofArithmeticTriplets();
         int result = solution.arithmeticTriplets(nums, diff);
         System.out.println("Count of arithmetic triplets: " + result);
-    }
+    } 
 }
 } 
 /* 
