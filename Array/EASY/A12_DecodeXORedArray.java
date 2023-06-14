@@ -24,7 +24,7 @@ public class A12_DecodeXORedArray {
         }
     }
 }
-
+ 
 
 /*
  * Input: encoded = [1,2,3], first = 1
