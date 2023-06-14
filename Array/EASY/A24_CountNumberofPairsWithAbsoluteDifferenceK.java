@@ -19,7 +19,7 @@ public class A24_CountNumberofPairsWithAbsoluteDifferenceK {
         int result = solution.countKDifference(nums, k);
         System.out.println("Number of pairs with absolute difference " + k + ": " + result);
     }
-}
+} 
 /*
  * Input: nums = [1,2,2,1], k = 1
 Output: 4
