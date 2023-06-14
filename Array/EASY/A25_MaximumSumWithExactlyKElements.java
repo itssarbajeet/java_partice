@@ -14,7 +14,7 @@ class A25_MaximumSumWithExactlyKElements{
             if (max < nums[i]) {
                 max = nums[i];
             }
-        }
+        } 
 
         int count = 0;
         for (int i = 0; i < k; i++) {
