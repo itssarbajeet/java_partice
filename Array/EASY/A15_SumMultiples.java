@@ -13,8 +13,8 @@ public class A15_SumMultiples {
             }
         }
         return sum;
-    }
-}
+    } 
+} 
 /*
  * Input: n = 7
 Output: 21
