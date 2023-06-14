@@ -21,7 +21,7 @@ public class A21_TruncateSentence {
         String truncatedSentence = solution.truncateSentence(s, k);
         System.out.println(truncatedSentence);
     }
-} 
+}  
 /*
  * Input: s = "Hello how are you Contestant", k = 4
 Output: "Hello how are you"
