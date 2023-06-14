@@ -37,7 +37,7 @@ public class A22_LargestLocalValuesinaMatrix {
                     }
                 }
             }
-        }
+        } 
 
         return arr;
     } 
