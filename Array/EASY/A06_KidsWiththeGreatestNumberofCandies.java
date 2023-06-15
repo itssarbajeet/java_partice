@@ -16,7 +16,7 @@ public class A06_KidsWiththeGreatestNumberofCandies {
                 result.add(false);
             }
         }
-
+ 
         return result;
     }
     public static void main(String[] args) {
