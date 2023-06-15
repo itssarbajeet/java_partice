@@ -4,8 +4,8 @@
         int x = 0;
         for(String o : operations) 
             x += (((int)',') - o.charAt(1));
-        return x;
-    }
+        return x; 
+    } 
 }
 value of the + 43 is and - is  45
  */
