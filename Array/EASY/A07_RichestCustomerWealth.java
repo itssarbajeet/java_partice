@@ -35,3 +35,4 @@ Explanation:
 2nd customer has wealth = 3 + 2 + 1 = 6
 Both customers are considered the richest with a wealth of 6 each, so return 6
  */
+ 
