@@ -11,7 +11,7 @@ public class A10_MaximumNumberofWordsFoundinSentences {
             String[] arr = sentences[i].split(" ");
             if (max < arr.length) {
                 max = arr.length;
-            }
+            } 
         }
         return max;
     }
