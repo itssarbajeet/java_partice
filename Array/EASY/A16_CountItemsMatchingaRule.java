@@ -28,7 +28,7 @@ public class A16_CountItemsMatchingaRule {
     }
 }
  
-/*
+/* 
  * Example 1:
 
 Input: items = [["phone","blue","pixel"],["computer","silver","lenovo"],["phone","gold","iphone"]], ruleKey = "color", ruleValue = "silver"
