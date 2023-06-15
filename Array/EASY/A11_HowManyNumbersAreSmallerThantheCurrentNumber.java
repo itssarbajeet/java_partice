@@ -19,7 +19,7 @@ public class A11_HowManyNumbersAreSmallerThantheCurrentNumber {
     public static void main(String[] args) {
         A11_HowManyNumbersAreSmallerThantheCurrentNumber solution = new A11_HowManyNumbersAreSmallerThantheCurrentNumber();
         
-        // Example usage
+        // Example usage  
         int[] nums = {7,7,7,7};
         int[] result = solution.smallerNumbersThanCurrent(nums);
         
