@@ -19,7 +19,7 @@ public class A02_Concatenation_of_Array {
         System.out.println("Original Array: " + Arrays.toString(nums));
         System.out.println("Concatenated Array: " + Arrays.toString(result));
     }
-}
+} 
 /*
  * Example 1:
 
