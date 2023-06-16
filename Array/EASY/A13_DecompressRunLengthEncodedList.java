@@ -16,7 +16,7 @@ class A13_DecompressRunLengthEncodedList{
             }
         }
         return arr;
-    }
+    } 
     public static void main(String[] args) {
         A13_DecompressRunLengthEncodedList solution = new A13_DecompressRunLengthEncodedList();
 
