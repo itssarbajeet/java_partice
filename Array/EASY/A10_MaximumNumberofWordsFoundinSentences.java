@@ -16,7 +16,7 @@ public class A10_MaximumNumberofWordsFoundinSentences {
         return max;
     }
 }
-/*
+/* 
  * Input: sentences = ["alice and bob love leetcode", "i think so too", "this is great thanks very much"]
 Output: 6
 Explanation: 
