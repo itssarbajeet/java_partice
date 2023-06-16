@@ -15,7 +15,7 @@ public class A11_HowManyNumbersAreSmallerThantheCurrentNumber {
         } 
         return arr;
     } 
-    
+     
     public static void main(String[] args) {
         A11_HowManyNumbersAreSmallerThantheCurrentNumber solution = new A11_HowManyNumbersAreSmallerThantheCurrentNumber();
         
