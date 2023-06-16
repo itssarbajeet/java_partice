@@ -13,7 +13,7 @@ public class A05_NumberofGoodPairs {
                     count++;
                
                 }
-            }
+            } 
         }
         return count;
     }
