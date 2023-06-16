@@ -7,7 +7,7 @@ public class A01_Build_Array_from_Permutation {
             d[i] = nums[nums[i]];
         }
         return d;
-    }
+    } 
     public static void main(String[] args) {
         // Example usage
         int[] nums = {0, 2, 1, 5, 3, 4};
