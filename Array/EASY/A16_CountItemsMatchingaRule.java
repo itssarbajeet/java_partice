@@ -7,7 +7,7 @@ public class A16_CountItemsMatchingaRule {
                     || (ruleKey.equals("color") && item.get(1).equals(ruleValue))
                     || (ruleKey.equals("name") && item.get(2).equals(ruleValue))) {
                 count++;
-            }
+            } 
         }
         return count;
     }
