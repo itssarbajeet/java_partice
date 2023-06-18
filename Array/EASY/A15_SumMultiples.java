@@ -4,7 +4,7 @@ public class A15_SumMultiples {
         A15_SumMultiples solution = new A15_SumMultiples();
         int sum = solution.sumOfMultiples(n);
         System.out.println("The sum of multiples of 3, 5, or 7 up to " + n + " is: " + sum);
-    } 
+    }  
     public int sumOfMultiples(int n) {
         int sum = 0;
         for (int i = 1; i <= n; i++) {
