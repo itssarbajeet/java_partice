@@ -36,3 +36,4 @@ Explanation:
 Both customers are considered the richest with a wealth of 6 each, so return 6
  */
   
+ 
