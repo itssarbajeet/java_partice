@@ -6,7 +6,7 @@ public class A09_RunningSumof1dArray {
         // Printing the running sum
         for (int num : runningSum) {
             System.out.print(num + " ");
-        }
+        } 
     }  
     public static int[] runningSum(int[] nums) {
         for (int i = 1; i < nums.length; i++) {
