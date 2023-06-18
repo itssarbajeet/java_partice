@@ -14,7 +14,7 @@ class A13_DecompressRunLengthEncodedList{
                 sum++;
                 freq--;
             }
-        }
+        } 
         return arr;
     } 
     public static void main(String[] args) {
