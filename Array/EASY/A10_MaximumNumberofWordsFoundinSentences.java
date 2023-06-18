@@ -4,7 +4,7 @@ public class A10_MaximumNumberofWordsFoundinSentences {
         A10_MaximumNumberofWordsFoundinSentences solution = new A10_MaximumNumberofWordsFoundinSentences();
         int mostWords = solution.mostWordsFound(sentences);
         System.out.println("Most words found in a sentence: " + mostWords);
-    }
+    }  
     public int mostWordsFound(String[] sentences) {
         int max = 0;
         for (int i = 0; i < sentences.length; i++) {
