@@ -15,7 +15,7 @@ public class A06_KidsWiththeGreatestNumberofCandies {
             } else {
                 result.add(false);
             }
-        }
+        } 
   
         return result;
     }
@@ -27,7 +27,7 @@ public class A06_KidsWiththeGreatestNumberofCandies {
         System.out.println("Original candies: " + Arrays.toString(candies));
         System.out.println("Extra candies: " + extraCandies);
         System.out.println("Kids with the greatest number of candies: " + result);
-    }
+    } 
 }
 
 
