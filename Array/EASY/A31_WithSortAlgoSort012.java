@@ -15,7 +15,7 @@ public class A31_WithSortAlgoSort012 {
     
 }
 /*
- * Optiimised code (Dutch National FLag Algorithm)
+ * Optiimised code (Dutch National FLag Algorithm )
 class Solution {
 
     public void swap(int arr[],int x,int y)
