@@ -1,4 +1,17 @@
+import java.util.Arrays;
+
 public class A31_WithSortAlgoSort012 {
+    public void sortColors(int[] nums) {
+        Arrays.sort(nums);
+    }
+
+    public static void main(String[] args) {
+        A31_WithSortAlgoSort012 solution = new A31_WithSortAlgoSort012();
+        int[] nums = {2, 0, 2, 1, 1, 0};
+        System.out.println("Before sorting: " + Arrays.toString(nums));
+        solution.sortColors(nums);
+        System.out.println("After sorting: " + Arrays.toString(nums));
+    }
     
 }
 /*
