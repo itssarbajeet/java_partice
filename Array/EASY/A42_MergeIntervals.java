@@ -22,7 +22,7 @@ class A42_MergeIntervals {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        A42_MergeIntervals solution = new A42_MergeIntervals();
 
         // Test case
         int[][] intervals = {{1, 3}, {2, 6}, {8, 10}, {15, 18}};
