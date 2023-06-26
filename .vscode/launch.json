@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A01_Build_Array_from_Permutation",
+            "request": "launch",
+            "mainClass": "A01_Build_Array_from_Permutation",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A02_Concatenation_of_Array",
+            "request": "launch",
+            "mainClass": "A02_Concatenation_of_Array",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A03_ShuffletheArray",
+            "request": "launch",
+            "mainClass": "A03_ShuffletheArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A04_FinalValueofVariableAfterPeformingOperations",
+            "request": "launch",
+            "mainClass": "A04_FinalValueofVariableAfterPeformingOperations",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A05_NumberofGoodPairs",
+            "request": "launch",
+            "mainClass": "A05_NumberofGoodPairs",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A06_KidsWiththeGreatestNumberofCandies",
+            "request": "launch",
+            "mainClass": "A06_KidsWiththeGreatestNumberofCandies",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A07_RichestCustomerWealth",
+            "request": "launch",
+            "mainClass": "A07_RichestCustomerWealth",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A09_RunningSumof1dArray",
+            "request": "launch",
+            "mainClass": "A09_RunningSumof1dArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A10_MaximumNumberofWordsFoundinSentences",
+            "request": "launch",
+            "mainClass": "A10_MaximumNumberofWordsFoundinSentences",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A11_HowManyNumbersAreSmallerThantheCurrentNumber",
+            "request": "launch",
+            "mainClass": "A11_HowManyNumbersAreSmallerThantheCurrentNumber",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A12_DecodeXORedArray",
+            "request": "launch",
+            "mainClass": "A12_DecodeXORedArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A13_DecompressRunLengthEncodedList",
+            "request": "launch",
+            "mainClass": "A13_DecompressRunLengthEncodedList",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A14_ShuffleString",
+            "request": "launch",
+            "mainClass": "A14_ShuffleString",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A15_SumMultiples",
+            "request": "launch",
+            "mainClass": "A15_SumMultiples",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A16_CountItemsMatchingaRule",
+            "request": "launch",
+            "mainClass": "A16_CountItemsMatchingaRule",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A17_DifferenceBetweenElementSumandDigitSumofanArray",
+            "request": "launch",
+            "mainClass": "A17_DifferenceBetweenElementSumandDigitSumofanArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A18_CheckIfTwoStringArraysareEquivalent",
+            "request": "launch",
+            "mainClass": "A18_CheckIfTwoStringArraysareEquivalent",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A19_NumberofArithmeticTriplets$Main",
+            "request": "launch",
+            "mainClass": "A19_NumberofArithmeticTriplets$Main",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A20_SumofAllOddLengthSubarrays",
+            "request": "launch",
+            "mainClass": "A20_SumofAllOddLengthSubarrays",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A21_TruncateSentence",
+            "request": "launch",
+            "mainClass": "A21_TruncateSentence",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A22_LargestLocalValuesinaMatrix",
+            "request": "launch",
+            "mainClass": "A22_LargestLocalValuesinaMatrix",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A23_MatrixDiagonalSum",
+            "request": "launch",
+            "mainClass": "A23_MatrixDiagonalSum",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A24_CountNumberofPairsWithAbsoluteDifferenceK",
+            "request": "launch",
+            "mainClass": "A24_CountNumberofPairsWithAbsoluteDifferenceK",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A25_MaximumSumWithExactlyKElements",
+            "request": "launch",
+            "mainClass": "A25_MaximumSumWithExactlyKElements",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A26_RotateArray",
+            "request": "launch",
+            "mainClass": "A26_RotateArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A27_Reverse_a_Array",
+            "request": "launch",
+            "mainClass": "A27_Reverse_a_Array",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A28_SumOfMaxAndMinlementInAnArray",
+            "request": "launch",
+            "mainClass": "A28_SumOfMaxAndMinlementInAnArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A29_KthLargestElement",
+            "request": "launch",
+            "mainClass": "A29_KthLargestElement",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A30_sort_0_1_2_withOutSortAlgo",
+            "request": "launch",
+            "mainClass": "A30_sort_0_1_2_withOutSortAlgo",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A31_WithSortAlgoSort012",
+            "request": "launch",
+            "mainClass": "A31_WithSortAlgoSort012",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A32_MoveAllNegativeToLeft",
+            "request": "launch",
+            "mainClass": "A32_MoveAllNegativeToLeft",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A33_MaxSumOfContinuSubarray",
+            "request": "launch",
+            "mainClass": "A33_MaxSumOfContinuSubarray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A34_UnionOfTwoArray",
+            "request": "launch",
+            "mainClass": "A34_UnionOfTwoArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A36_RotateAnArray",
+            "request": "launch",
+            "mainClass": "A36_RotateAnArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A37_MaxSumOfASubArrayKadanesAlgo",
+            "request": "launch",
+            "mainClass": "A37_MaxSumOfASubArrayKadanesAlgo",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A38_MinimizeTheHeights",
+            "request": "launch",
+            "mainClass": "A38_MinimizeTheHeights",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A39_MinimumNumberOfJumpsjava",
+            "request": "launch",
+            "mainClass": "A39_MinimumNumberOfJumpsjava",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A40_FindTheDuplicateNumber",
+            "request": "launch",
+            "mainClass": "A40_FindTheDuplicateNumber",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A41_MergeWithoutExtraSpace",
+            "request": "launch",
+            "mainClass": "A41_MergeWithoutExtraSpace",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java Partice_87c99ddc"
+        }
+    ]
+}
