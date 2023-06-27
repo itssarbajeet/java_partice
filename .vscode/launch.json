@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A45_CountPairsWithGivenSum",
+            "request": "launch",
+            "mainClass": "A45_CountPairsWithGivenSum",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A44_BestTimeToBuyAndSellStock$Main",
             "request": "launch",
             "mainClass": "A44_BestTimeToBuyAndSellStock$Main",
