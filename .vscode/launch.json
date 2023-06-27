@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A44_BestTimeToBuyAndSellStock$Main",
+            "request": "launch",
+            "mainClass": "A44_BestTimeToBuyAndSellStock$Main",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A43_NextPermutation",
+            "request": "launch",
+            "mainClass": "A43_NextPermutation",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A43_NextPermutation",
             "request": "launch",
             "mainClass": "Array.MEDIUM.A43_NextPermutation",

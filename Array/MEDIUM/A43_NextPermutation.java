@@ -40,7 +40,7 @@ public class A43_NextPermutation {
 
     public static void main(String[] args) {
         A43_NextPermutation solution = new A43_NextPermutation();
-        int[] nums = {1, 2, 3};
+        int[] nums = {1, 2,4, 3};
         System.out.println("Before permutation: " + Arrays.toString(nums));
         solution.nextPermutation(nums);
         System.out.println("After permutation: " + Arrays.toString(nums));
