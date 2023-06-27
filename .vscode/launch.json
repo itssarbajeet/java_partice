@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A43_NextPermutation",
+            "request": "launch",
+            "mainClass": "Array.MEDIUM.A43_NextPermutation",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
