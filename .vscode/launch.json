@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A52_ThreeWayPartitioning",
+            "request": "launch",
+            "mainClass": "A52_ThreeWayPartitioning",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A51_ChocolateDistributionProblem",
+            "request": "launch",
+            "mainClass": "A51_ChocolateDistributionProblem",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "SolutA50_BuyAndSellAShareAtMostTwiceion",
             "request": "launch",
             "mainClass": "SolutA50_BuyAndSellAShareAtMostTwiceion",
