@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SolutA50_BuyAndSellAShareAtMostTwiceion",
+            "request": "launch",
+            "mainClass": "SolutA50_BuyAndSellAShareAtMostTwiceion",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A49_LongestConsecutiveSubsequence",
             "request": "launch",
             "mainClass": "A49_LongestConsecutiveSubsequence",
