@@ -26,6 +26,6 @@ class A60_SmallestSubarrayWithSumGreaterThanX {
     public static void main(String[] args) {
         int arr[]={1, 4, 45, 6, 0, 19};
         System.out.println(smallestSubWithSum(arr, arr.length,51));
-
+ 
 }
 }
