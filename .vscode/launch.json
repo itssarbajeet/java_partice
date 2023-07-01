@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A60_SmallestSubarrayWithSumGreaterThanX",
+            "request": "launch",
+            "mainClass": "A60_SmallestSubarrayWithSumGreaterThanX",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A59_TripletSumInArray",
+            "request": "launch",
+            "mainClass": "A59_TripletSumInArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A58_MinimumSwapsAndKTogether",
+            "request": "launch",
+            "mainClass": "A58_MinimumSwapsAndKTogether",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A57_TrappingRainWater",
+            "request": "launch",
+            "mainClass": "A57_TrappingRainWater",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A56_MedianOfTwoSortedArraysOfDifferentSizes",
+            "request": "launch",
+            "mainClass": "A56_MedianOfTwoSortedArraysOfDifferentSizes",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A55_ArraySubsetOfAnotherArray",
+            "request": "launch",
+            "mainClass": "A55_ArraySubsetOfAnotherArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A54_PalindromicArray",
+            "request": "launch",
+            "mainClass": "A54_PalindromicArray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A53_FindTheMedian",
+            "request": "launch",
+            "mainClass": "A53_FindTheMedian",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A52_ThreeWayPartitioning",
             "request": "launch",
             "mainClass": "A52_ThreeWayPartitioning",
