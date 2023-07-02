@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A04_SortedMatrix",
+            "request": "launch",
+            "mainClass": "A04_SortedMatrix",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A03_RowWithMax1s",
+            "request": "launch",
+            "mainClass": "A03_RowWithMax1s",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A02_SearchA2DMatrix",
+            "request": "launch",
+            "mainClass": "A02_SearchA2DMatrix",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A01_SpirallyTraversingAMatrix",
+            "request": "launch",
+            "mainClass": "A01_SpirallyTraversingAMatrix",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A01_SpirallyTraversingAMatrix",
+            "request": "launch",
+            "mainClass": "A02_Matrix.A01_SpirallyTraversingAMatrix",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A65_MaximumProductSubarray",
+            "request": "launch",
+            "mainClass": "A65_MaximumProductSubarray",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A65_MaximumProductSubarray$Main",
+            "request": "launch",
+            "mainClass": "A65_MaximumProductSubarray$Main",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A64_CountInversions",
+            "request": "launch",
+            "mainClass": "A64_CountInversions",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A63_MinimumNumberOfJumps",
+            "request": "launch",
+            "mainClass": "A63_MinimumNumberOfJumps",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A62_SubarrayWith0Sum",
+            "request": "launch",
+            "mainClass": "A62_SubarrayWith0Sum",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A61_FactorialsOfLargeNumbers",
+            "request": "launch",
+            "mainClass": "A61_FactorialsOfLargeNumbers",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A60_SmallestSubarrayWithSumGreaterThanX",
             "request": "launch",
             "mainClass": "A60_SmallestSubarrayWithSumGreaterThanX",
