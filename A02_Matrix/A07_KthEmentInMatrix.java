@@ -26,3 +26,4 @@ public class A07_KthEmentInMatrix {
         System.out.println(kthSmallest(mat, N, 3));
     }
 }
+ 
