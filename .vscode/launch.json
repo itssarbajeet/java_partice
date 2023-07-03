@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A07_KthEmentInMatrix",
+            "request": "launch",
+            "mainClass": "A07_KthEmentInMatrix",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A05_RotateAMatrixBy90Degree",
+            "request": "launch",
+            "mainClass": "A05_RotateAMatrixBy90Degree",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A04_SortedMatrix",
             "request": "launch",
             "mainClass": "A04_SortedMatrix",
