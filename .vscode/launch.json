@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A04_CountTheSubArraysHavingProductLessThanK",
+            "request": "launch",
+            "mainClass": "GFG.A04_CountTheSubArraysHavingProductLessThanK",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A03_PrintAllTheDuplicatesInTheInputString",
+            "request": "launch",
+            "mainClass": "A03_PrintAllTheDuplicatesInTheInputString",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A02_PalindromeString",
+            "request": "launch",
+            "mainClass": "A02_PalindromeString",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A01_ReverseString",
+            "request": "launch",
+            "mainClass": "A01_ReverseString",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A07_KthEmentInMatrix",
             "request": "launch",
             "mainClass": "A07_KthEmentInMatrix",
