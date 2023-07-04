@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A01_NumberOf1Bits",
+            "request": "launch",
+            "mainClass": "GFG.A01_NumberOf1Bits",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A06_StockBuyAndSell2",
+            "request": "launch",
+            "mainClass": "A06_StockBuyAndSell2",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A05_IsomorphicStrings",
+            "request": "launch",
+            "mainClass": "A05_IsomorphicStrings",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A04_ParenthesisChecker",
+            "request": "launch",
+            "mainClass": "A04_ParenthesisChecker",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A04_CountTheSubArraysHavingProductLessThanK",
             "request": "launch",
             "mainClass": "GFG.A04_CountTheSubArraysHavingProductLessThanK",
