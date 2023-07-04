@@ -20,7 +20,7 @@ class A04_CountTheSubArraysHavingProductLessThanK {
     }
 
     public static void main(String[] args) {
-        long[] arr = {2, 4, 6};
+        long[] arr = {2, 4, 6}; 
         int n = arr.length;
         long k = 50;
 
