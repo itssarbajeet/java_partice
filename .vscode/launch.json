@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A08_MinNumberOfFlips",
+            "request": "launch",
+            "mainClass": "A08_MinNumberOfFlips",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A07_RomanNumberToInteger",
+            "request": "launch",
+            "mainClass": "A07_RomanNumberToInteger",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A06_ConvertASentenceInToItsEquivalentMobileNumericKeypadSequence",
+            "request": "launch",
+            "mainClass": "A06_ConvertASentenceInToItsEquivalentMobileNumericKeypadSequence",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A01_NumberOf1Bits",
             "request": "launch",
             "mainClass": "GFG.A01_NumberOf1Bits",
