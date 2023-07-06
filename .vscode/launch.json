@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A07_QuickSort",
+            "request": "launch",
+            "mainClass": "GFG.A07_QuickSort",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A08_MinNumberOfFlips",
             "request": "launch",
             "mainClass": "A08_MinNumberOfFlips",
