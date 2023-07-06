@@ -19,7 +19,7 @@ public class A06_ConvertASentenceInToItsEquivalentMobileNumericKeypadSequence {
               String s ="5".repeat(ch - 'I');
               sb.append(s);
           }
-          else if(ch >= 'M' && ch <= 'O'){
+          else if(ch >= 'M' && ch <= 'O'){ 
               String s ="6".repeat(ch - 'L');
               sb.append(s);
           }
