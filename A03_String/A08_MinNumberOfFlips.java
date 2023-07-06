@@ -18,7 +18,7 @@ public class A08_MinNumberOfFlips {
                 count1++;
             } else if (i % 2 == 1 && S.charAt(i) != '0') {
                 count1++;
-            }
+            } 
         }
         
         // Return the minimum number of flips required
