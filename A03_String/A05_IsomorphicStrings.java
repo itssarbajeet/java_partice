@@ -26,7 +26,7 @@ public class A05_IsomorphicStrings {
                     return false;
                 }
             }
-        }
+        } 
         return true;
     }
     public static void main(String[] args) {
