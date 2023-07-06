@@ -8,5 +8,5 @@ public class A06_CommonElementsInAllRowsOfAGivenMatrix {
         
  
     }
-}
+} 
   
