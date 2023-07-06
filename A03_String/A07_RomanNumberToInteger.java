@@ -9,7 +9,7 @@ public class A07_RomanNumberToInteger {
         romanValues['D' - 'A'] = 500;
         romanValues['M' - 'A'] = 1000;
 
-        int sum = 0;
+        int sum = 0; 
         int prevValue = 0;
 
         for (int i = str.length() - 1; i >= 0; i--) {
