@@ -24,5 +24,5 @@ public class A62_SubarrayWith0Sum {
         else{
             System.out.println("no");
         }
-    }
+    } 
 }
