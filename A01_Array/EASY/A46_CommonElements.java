@@ -24,7 +24,7 @@ class A46_CommonElements {
             }
         }
         
-        return result;
+        return result; 
     }
 
 
