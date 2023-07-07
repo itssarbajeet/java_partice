@@ -34,3 +34,4 @@ Explanation: Here n/k is 7/3 = 2, therefore 9 appears 3 times in the array that 
 
 
  */
+ 
