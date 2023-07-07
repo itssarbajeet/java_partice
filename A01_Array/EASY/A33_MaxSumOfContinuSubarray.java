@@ -11,7 +11,7 @@ public class A33_MaxSumOfContinuSubarray {
 
             if (max < arr[i]) {
                 max = arr[i];
-            }
+            } 
         }
         System.out.println(Arrays.toString(arr));
         return max;
