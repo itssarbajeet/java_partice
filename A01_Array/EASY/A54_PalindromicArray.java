@@ -20,5 +20,5 @@ public static void main (String args[]){
     int []arr={111,222,333,454,565};
     System.out.println("palindrome array is "+palinArray(arr, arr.length));
 
-}
+} 
 }
