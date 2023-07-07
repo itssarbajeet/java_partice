@@ -18,7 +18,7 @@ public class A43_NextPermutation {
             if (k >= 0 && nums[k] >= nums[k + 1]) {
                 k--;
             }
-        }
+        } 
 
         if (k == -1) {
             nums = reverse(nums, 0, nums.length - 1);
