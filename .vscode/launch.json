@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A05_FindMissingAndRepeating",
+            "request": "launch",
+            "mainClass": "A04_SearchingAndSorting.A05_FindMissingAndRepeating",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A05_FindMissingAndRepeating$Solve",
+            "request": "launch",
+            "mainClass": "A04_SearchingAndSorting.A05_FindMissingAndRepeating$Solve",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A04_CountSquare$Solution",
+            "request": "launch",
+            "mainClass": "A04_SearchingAndSorting.A04_CountSquare$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A04_CountSquare",
+            "request": "launch",
+            "mainClass": "A04_SearchingAndSorting.A04_CountSquare",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A09_FindTripletsWithZeroSum$Solution",
+            "request": "launch",
+            "mainClass": "GFG.A09_FindTripletsWithZeroSum$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A02_ValueEqualToIndexValue$Solution",
+            "request": "launch",
+            "mainClass": "A04_SearchingAndSorting.A02_ValueEqualToIndexValue$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A08_MergeWithoutExtraSpace",
             "request": "launch",
             "mainClass": "GFG.A08_MergeWithoutExtraSpace",
