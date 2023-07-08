@@ -17,5 +17,6 @@ public class A05_StockBuyAndSell2 {
         System.out.println("Maximum profit is "+stockBuyAndSell(arr.length,arr));
     } 
 } 
-        
+         
 
+ 
