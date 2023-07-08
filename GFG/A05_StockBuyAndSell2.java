@@ -15,7 +15,7 @@ public class A05_StockBuyAndSell2 {
     public static void main(String[] args) {
         int []arr={1,2,3,5,1,6};
         System.out.println("Maximum profit is "+stockBuyAndSell(arr.length,arr));
-    }
+    } 
 } 
         
 
