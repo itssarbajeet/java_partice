@@ -13,7 +13,7 @@ public class A06_ConvertASentenceInToItsEquivalentMobileNumericKeypadSequence {
           }
           else if(ch >= 'G' && ch <= 'I'){
               String s ="4".repeat(ch - 'F');
-              sb.append(s);
+              sb.append(s); 
           }
           else if(ch >= 'J' && ch <= 'L'){
               String s ="5".repeat(ch - 'I');
