@@ -12,6 +12,6 @@ public class A02_PalindromeString {
         String s="racecar"; 
         System.out.println("Is Palindrome: "+ isPalindrome(s) );
 
-    }
+    } 
 }
  
