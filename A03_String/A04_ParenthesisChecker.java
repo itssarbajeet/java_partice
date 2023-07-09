@@ -12,7 +12,7 @@ public class A04_ParenthesisChecker {
                     return false;
                 } else if (!isMatchingPair(stack.pop(), ch)) {
                     return false;
-                }
+                } 
             }
         }
 
