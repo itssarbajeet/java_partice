@@ -15,6 +15,6 @@ public class A02_ValueEqualToIndexValue {
         public static void main(String[] args) {
             int arr[]={2,2,3,5,6,7};
             System.out.println("The correct value at index is: "+(valueEqualToIndex(arr,arr.length)).toString());
-        }
+        } 
     }
 }
