@@ -14,5 +14,5 @@ public class A03_PrintAllTheDuplicatesInTheInputString {
     public static void main(String[] args) {
         String s = "SARBAJEET";
         DuplicateElements(s);
-    }
+    } 
 } 
