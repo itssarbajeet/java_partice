@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A10_SmallestPositiveMissingNumber$Solution",
+            "request": "launch",
+            "mainClass": "GFG.A10_SmallestPositiveMissingNumber$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A05_StockBuyAndSell2",
             "request": "launch",
             "mainClass": "GFG.A05_StockBuyAndSell2",
