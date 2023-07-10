@@ -1,4 +1,3 @@
-package GFG;
 
 public class A10_SmallestPositiveMissingNumber {
     class Solution
