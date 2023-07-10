@@ -15,7 +15,7 @@ public class A07_FindPairGivenDifference {
             
             if (diff == N) {
                 return true;
-            } else if (diff < N) {
+            } else if (diff < N) { 
                 right++;
             } else {
                 left++;
