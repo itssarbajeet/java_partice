@@ -1,4 +1,3 @@
-package GFG;
 
 public class A01_NumberOf1Bits {
     static int setBits(int N) {
@@ -13,6 +12,6 @@ public class A01_NumberOf1Bits {
     }
     public static void main(String[] args) {
         System.out.println("Number of bits in a number: " +setBits(2));
-    }
+        }
     
 }

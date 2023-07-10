@@ -1,4 +1,3 @@
-package GFG;
 import java.util.*;
 class A04_CountTheSubArraysHavingProductLessThanK {
     public static  int countSubArrayProductLessThanK(long a[], int n, long k) {

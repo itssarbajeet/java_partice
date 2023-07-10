@@ -1,4 +1,3 @@
-package GFG;
 public class A05_StockBuyAndSell2 {
     public static int stockBuyAndSell(int n, int[] arr) {
          int sum=0;
