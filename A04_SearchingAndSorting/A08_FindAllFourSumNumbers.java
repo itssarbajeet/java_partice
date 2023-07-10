@@ -49,7 +49,7 @@ public class A08_FindAllFourSumNumbers {
         return nums;
     }
     public static void main(String[] args) {
-        int A[] = {10,2,3,4,5,7,8};
+        int A[] = {10,2,3,4,5,7,8}; 
         int k=23;
         ArrayList<ArrayList<Integer>> nums=fourSum( A, k);
         System.out.print(nums);
