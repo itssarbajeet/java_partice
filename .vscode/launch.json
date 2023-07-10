@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A13_K_thElementOfTwoSortedArrays$Solution",
+            "request": "launch",
+            "mainClass": "A13_K_thElementOfTwoSortedArrays$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A12_FindKthElementOfSpiralMatrix$Solution",
+            "request": "launch",
+            "mainClass": "GFG.A12_FindKthElementOfSpiralMatrix$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A03_SearchInRotatedSortedArray$Solution",
+            "request": "launch",
+            "mainClass": "A04_SearchingAndSorting.A03_SearchInRotatedSortedArray$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A01_FindFirstAndLastIndex$GFG",
+            "request": "launch",
+            "mainClass": "A04_SearchingAndSorting.A01_FindFirstAndLastIndex$GFG",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A08_FindAllFourSumNumbers$Solution",
             "request": "launch",
             "mainClass": "A04_SearchingAndSorting.A08_FindAllFourSumNumbers$Solution",
