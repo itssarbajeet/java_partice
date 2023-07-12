@@ -1,4 +1,3 @@
-package A04_SearchingAndSorting;
 
 public class A03_SearchInRotatedSortedArray {
     class Solution {
