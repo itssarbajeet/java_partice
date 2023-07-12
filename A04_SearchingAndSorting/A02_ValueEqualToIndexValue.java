@@ -1,4 +1,3 @@
-package A04_SearchingAndSorting;
 import java.util.*;
 
 public class A02_ValueEqualToIndexValue {
