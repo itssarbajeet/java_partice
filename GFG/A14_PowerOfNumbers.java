@@ -19,4 +19,4 @@ public class A14_PowerOfNumbers{
             System.out.println("Enter the number:" + power(12,21));
         }
     }
-}
+} 
