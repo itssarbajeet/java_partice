@@ -1,4 +1,3 @@
-package A04_SearchingAndSorting;
 
 import java.util.ArrayList;
 import java.util.Arrays;

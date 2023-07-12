@@ -1,4 +1,3 @@
-package A04_SearchingAndSorting;
 
 public class A06_MiddleOfThree {
     class Solution {

@@ -1,4 +1,3 @@
-package A04_SearchingAndSorting;
 import java.util.Arrays;
 
 public class A05_FindMissingAndRepeating {
