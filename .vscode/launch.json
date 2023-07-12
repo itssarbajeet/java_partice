@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A14_PowerOfNumbers$Solution",
+            "request": "launch",
+            "mainClass": "A14_PowerOfNumbers$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A13_ArithmeticNumber$Solution",
+            "request": "launch",
+            "mainClass": "A13_ArithmeticNumber$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A12_ProductArrayPuzzle$Solution",
+            "request": "launch",
+            "mainClass": "A12_ProductArrayPuzzle$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A11_CountTripletsWithSumSmallerThanX$Solution",
+            "request": "launch",
+            "mainClass": "A11_CountTripletsWithSumSmallerThanX$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A10_MajorityElement$Solution",
+            "request": "launch",
+            "mainClass": "A10_MajorityElement$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "A09_SticklerThief$Solution",
+            "request": "launch",
+            "mainClass": "A09_SticklerThief$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A13_K_thElementOfTwoSortedArrays$Solution",
             "request": "launch",
             "mainClass": "A13_K_thElementOfTwoSortedArrays$Solution",
