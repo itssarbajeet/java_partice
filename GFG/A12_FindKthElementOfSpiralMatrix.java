@@ -21,7 +21,7 @@ public class A12_FindKthElementOfSpiralMatrix {
                     if (count == k) {
                         return a[j][right];
                     }
-                    count++;
+                    count++; 
                 }
                 right--;
     
