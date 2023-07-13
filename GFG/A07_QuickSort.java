@@ -21,7 +21,7 @@ public class A07_QuickSort {
                 swap(arr, i, j);
             }
         }
-        swap(arr, i + 1, high);
+        swap(arr, i + 1, high); 
         return i + 1;
     }
     static void swap(int arr[], int i, int j) {
