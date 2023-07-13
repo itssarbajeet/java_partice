@@ -13,8 +13,8 @@ public class A05_FindMissingAndRepeating {
                     repeatingNum = Math.abs(arr[i]);
                 } else {
                     arr[index] = -arr[index]; 
-                }
-            }
+                } 
+            } 
 
             for (int i = 0; i < n; i++) {
                 if (arr[i] > 0) {
