@@ -16,7 +16,7 @@ public class A01_FindFirstAndLastIndex {
     }
 
     static int check(long arr[], int n, int x, boolean check) {
-        int left = 0;
+        int left = 0; 
         int right = n - 1;
         int mid;
         while (left <= right) {  // Modified condition to include equality
