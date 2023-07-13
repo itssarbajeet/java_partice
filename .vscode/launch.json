@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A15_UniqueNumberOfOccurrences$Solution",
+            "request": "launch",
+            "mainClass": "A15_UniqueNumberOfOccurrences$Solution",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A14_PowerOfNumbers$Solution",
             "request": "launch",
             "mainClass": "A14_PowerOfNumbers$Solution",
