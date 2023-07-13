@@ -16,7 +16,7 @@ public class A15_UniqueNumberOfOccurrences {
         for (int frequency : frequencyMap.values()) {
             if (!uniqueFrequencies.add(frequency)) {
                 return false;
-            }
+            } 
         }
 
         return true;
