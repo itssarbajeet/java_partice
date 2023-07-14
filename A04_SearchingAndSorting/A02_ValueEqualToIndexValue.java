@@ -7,7 +7,7 @@ public class A02_ValueEqualToIndexValue {
             for(int i=0;i<n;i++){
                 if(arr[i]==(i+1)){
                     nums.add(i+1);
-                }
+                } 
             }
             return nums;
         }
