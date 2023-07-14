@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A17_DeleteMiddleElementOfAStack",
+            "request": "launch",
+            "mainClass": "A17_DeleteMiddleElementOfAStack",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "A15_UniqueNumberOfOccurrences$Solution",
             "request": "launch",
             "mainClass": "A15_UniqueNumberOfOccurrences$Solution",
