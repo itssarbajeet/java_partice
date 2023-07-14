@@ -9,7 +9,7 @@ public class A06_MiddleOfThree {
                 middle = B;
             } else if ((A < C && C < B) || (B < C && C < A)) {
                 middle = C;
-            }
+            } 
             return middle;
         }
         public static void main(String[] args) {
