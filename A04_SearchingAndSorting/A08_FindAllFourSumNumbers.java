@@ -10,7 +10,7 @@ public class A08_FindAllFourSumNumbers {
         int n = arr.length;
         int sum = 0;
         int count = 0;
-        for (int i = 0; i < n - 3; i++) {
+        for (int i = 0; i < n - 3; i++) { 
             if (i > 0 && arr[i] == arr[i - 1]) {
                 continue; // Skip duplicates for the first number
             }
