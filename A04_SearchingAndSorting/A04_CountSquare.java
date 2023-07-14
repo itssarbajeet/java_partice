@@ -15,7 +15,7 @@ public class A04_CountSquare {
             
             return count;
         }
-    
+     
     public static void main(String[] args) {
         System.out.println("Number of squares in a given range: " + countSquares(15));
     }
