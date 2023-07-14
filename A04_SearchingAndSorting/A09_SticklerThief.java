@@ -9,7 +9,7 @@ public class A09_SticklerThief {
             if (n == 1) {
                 return arr[0];
             }
-            
+             
             int[] dp = new int[n];
             dp[0] = arr[0];
             dp[1] = Math.max(arr[0], arr[1]);
