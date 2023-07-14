@@ -15,7 +15,7 @@ public class A05_FindMissingAndRepeating {
                     arr[index] = -arr[index]; 
                 } 
             } 
-
+ 
             for (int i = 0; i < n; i++) {
                 if (arr[i] > 0) {
                     missingNum = i + 1;
