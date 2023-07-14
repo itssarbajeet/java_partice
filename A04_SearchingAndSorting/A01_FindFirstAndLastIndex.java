@@ -7,7 +7,7 @@ public class A01_FindFirstAndLastIndex {
         ArrayList<Long> nums = new ArrayList<>();
         if (n == 0 ) {
             nums.add(-1L);
-            nums.add(-1L);
+            nums.add(-1L); 
             return nums;
         }
         nums.add((long) check(arr, n, x, true));
