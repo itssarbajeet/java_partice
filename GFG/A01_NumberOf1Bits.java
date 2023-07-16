@@ -10,7 +10,7 @@ public class A01_NumberOf1Bits {
         }
         return count;
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         System.out.println("Number of bits in a number: " +setBits(2));
         }
     
