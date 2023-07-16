@@ -15,7 +15,7 @@ public class A10_SmallestPositiveMissingNumber {
                     arr[i] = temp;
                     i--;
                 }
-            } 
+            }  
         }
 
         // Step 2: Finding the smallest missing number
