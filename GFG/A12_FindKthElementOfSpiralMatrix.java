@@ -19,7 +19,7 @@ public class A12_FindKthElementOfSpiralMatrix {
     
                 for (int j = top; j <= bottom; j++) {
                     if (count == k) {
-                        return a[j][right];
+                        return a[j][right]; 
                     }
                     count++; 
                 }
