@@ -10,7 +10,7 @@ class A04_CountTheSubArraysHavingProductLessThanK {
             while (start <= end && product >= k) {
                 product /= a[start];
                 start++;
-            }
+            } 
 
             count += end - start + 1;
         }
