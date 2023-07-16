@@ -13,7 +13,7 @@ public class A09_FindTripletsWithZeroSum {
             int sum = -arr[i];
             
             while (left < right) {
-                if (arr[left] + arr[right] == sum) {
+                if (arr[left] + arr[right] == sum) { 
                     return true;
                 } else if (arr[left] + arr[right] < sum) {
                     left++;
