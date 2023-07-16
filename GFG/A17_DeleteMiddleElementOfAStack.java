@@ -7,7 +7,7 @@ public class A17_DeleteMiddleElementOfAStack {
         stack.push(2);
         stack.push(3);
         stack.push(4);
-        stack.push(5);
+        stack.push(5); 
         
         System.out.println("Stack before deleting middle element: " + stack);
         
