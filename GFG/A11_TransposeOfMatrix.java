@@ -17,7 +17,7 @@ public class A11_TransposeOfMatrix {
                        {4, 4, 4, 4}};
         transpose(mat.length, mat);
         for (int[] num : mat) {
-            for (int val : num) {
+            for (int val : num) { 
                 System.out.print(val + " ");
             }
             System.out.println();
