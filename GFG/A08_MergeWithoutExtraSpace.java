@@ -16,7 +16,7 @@ public class A08_MergeWithoutExtraSpace {
             j++;
         }
         Arrays.sort(arr1);
-        Arrays.sort(arr2);
+        Arrays.sort(arr2); 
     }
 
     // Main method to test the code.
