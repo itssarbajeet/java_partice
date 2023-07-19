@@ -3,7 +3,7 @@ class A01_SpirallyTraversingAMatrix
 {
     //Function to return a list of integers denoting spiral traversal of matrix.
     static ArrayList<Integer> spirallyTraverse(int matrix[][], int r, int c)
-    {
+    { 
         int left=0;
         int right=c-1;
         int top=0;
