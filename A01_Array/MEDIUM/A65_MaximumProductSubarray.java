@@ -4,7 +4,7 @@ public class A65_MaximumProductSubarray {
         int[] arr2 = {2, 3, 4, 5, -1, 0}; // Output: 120
         int[] arr3 = {1, 2, 3, 4, 5}; // Output: 120
         int[] arr4 = {-1, -2, -3, -4, -5}; // Output: 120
-        int[] arr5 = {0, 0, 0, 0, 0}; // Output: 0
+        int[] arr5 = {0, 0, 0, 0, 0}; // Output: 0 
         int[] arr6 = {1, -2, 3, -4, 5}; // Output: 120
 
         System.out.println("Max Product 1: " + maxProduct(arr1));
