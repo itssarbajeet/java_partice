@@ -11,7 +11,7 @@ public class A49_LongestConsecutiveSubsequence {
 	    for(int i=0;i<N-1;i++){
 	        if(arr[i]==arr[i+1]){
 	            continue;
-	        }
+	        } 
 	        if(arr[i]==arr[i+1]-1){
 	            count++;
 	            max=Math.max(max,count);
