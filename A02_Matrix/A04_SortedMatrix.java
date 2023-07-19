@@ -18,7 +18,7 @@ public class A04_SortedMatrix {
                 Mat[i][j] = arr[count];
                 count++;
             }
-        }
+        } 
         return Mat;
     }
     public static void main(String[] args) {
