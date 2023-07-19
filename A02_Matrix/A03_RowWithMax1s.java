@@ -5,7 +5,7 @@ public class A03_RowWithMax1s {
         }
 
         int max = 0;
-        int index = -1; 
+        int index = -1;  
         int entered = 0;
 
         for (int i = 0; i < n; i++) {
