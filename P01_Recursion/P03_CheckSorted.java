@@ -1,4 +1,3 @@
-package P01_Recursion;
 
 import java.util.*;
 public class P03_CheckSorted {
@@ -8,7 +7,7 @@ public class P03_CheckSorted {
     }
     if(!(arr[index]<arr[index+1])){
         return false;
-    }
+    } 
     return CheckSort(arr, ++index);
     }
     public static void main(String[] args) {
