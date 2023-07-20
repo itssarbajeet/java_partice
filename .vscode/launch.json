@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "P01_ReverseANumber",
+            "request": "launch",
+            "mainClass": "P01_ReverseANumber",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "P04_MergeSort",
+            "request": "launch",
+            "mainClass": "P04_MergeSort",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "P04_MergeSort",
+            "request": "launch",
+            "mainClass": "P01_Recursion.P04_MergeSort",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "P03_CheckSorted",
             "request": "launch",
             "mainClass": "P01_Recursion.P03_CheckSorted",
