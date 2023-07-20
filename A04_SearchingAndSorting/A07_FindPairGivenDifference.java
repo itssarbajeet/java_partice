@@ -11,7 +11,7 @@ public class A07_FindPairGivenDifference {
         
         while (left < L && right < L) {
             int diff = arr[right] - arr[left];
-            
+             
             if (diff == N) {
                 return true;
             } else if (diff < N) {   
