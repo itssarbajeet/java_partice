@@ -9,7 +9,7 @@ public class A04_CountSquare {
                 sqrt--;
             }
             
-            for (int i = 1; i <= sqrt; i++) {
+            for (int i = 1; i <= sqrt; i++) { 
                 count++;
             }
             
