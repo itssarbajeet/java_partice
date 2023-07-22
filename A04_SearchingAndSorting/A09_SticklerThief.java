@@ -15,7 +15,7 @@ public class A09_SticklerThief {
             dp[1] = Math.max(arr[0], arr[1]);
             
             for (int i = 2; i < n; i++) {
-                dp[i] = Math.max(arr[i] + dp[i-2], dp[i-1]);
+                dp[i] = Math.max(arr[i] + dp[i-2], dp[i-1]); 
             }
             
             return dp[n-1];
