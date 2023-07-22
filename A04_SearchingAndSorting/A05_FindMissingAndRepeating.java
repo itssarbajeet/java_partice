@@ -8,7 +8,7 @@ public class A05_FindMissingAndRepeating {
             int missingNum = -1;
 
             for (int i = 0; i < n; i++) {
-                int index = Math.abs(arr[i]) - 1;
+                int index = Math.abs(arr[i]) - 1; 
                 if (arr[index] < 0) {
                     repeatingNum = Math.abs(arr[i]);
                 } else {
