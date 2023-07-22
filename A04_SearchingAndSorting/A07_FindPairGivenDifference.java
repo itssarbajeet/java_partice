@@ -13,7 +13,7 @@ public class A07_FindPairGivenDifference {
             int diff = arr[right] - arr[left];
              
             if (diff == N) {
-                return true;
+                return true; 
             } else if (diff < N) {   
                 right++;
             } else {
