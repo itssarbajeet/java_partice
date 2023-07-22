@@ -3,7 +3,7 @@ public class A03_SearchInRotatedSortedArray {
     class Solution {
         public static int search(int[] nums, int target) {
             int pivot = getPivot(nums);
-            int index = binarySearch(nums, target, 0, pivot);
+            int index = binarySearch(nums, target, 0, pivot); 
             if (index == -1) {
                 index = binarySearch(nums, target, pivot, nums.length - 1);
             }
