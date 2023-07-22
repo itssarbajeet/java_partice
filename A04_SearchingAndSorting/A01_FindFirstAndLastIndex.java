@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class A01_FindFirstAndLastIndex {
     class GFG {
-    static ArrayList<Long> find(long arr[], int n, int x) {
+    static ArrayList<Long> find(long arr[], int n, int x) { 
         ArrayList<Long> nums = new ArrayList<>();
         if (n == 0 ) {
             nums.add(-1L);
