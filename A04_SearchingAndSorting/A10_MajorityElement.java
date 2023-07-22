@@ -29,7 +29,7 @@ public class A10_MajorityElement {
     public static void main(String[] args){
         int N = 3 ;
         int A[] = {1,3,3};  
-        System.out.println("The Majority Element is " + majorityElement(A,N));
+        System.out.println("The Majority Element is " + majorityElement(A,N)); 
     }
 }
 }
