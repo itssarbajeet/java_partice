@@ -12,7 +12,7 @@ public class A06_MiddleOfThree {
             } 
             return middle;
         }
-        public static void main(String[] args) {
+        public static void main(String[] args) { 
             int A=852;
             int B=963;
             int C=741;
