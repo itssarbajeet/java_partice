@@ -9,7 +9,7 @@ public class A02_ValueEqualToIndexValue {
                     nums.add(i+1);
                 } 
             }
-            return nums;
+            return nums; 
         }
         public static void main(String[] args) {
             int arr[]={2,2,3,5,6,7};
