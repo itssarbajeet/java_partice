@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* Container for images and paragraphs */
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        /* Style for each image and paragraph */
+        .item {
+            text-align: center;
+            margin: 10px;
+            transition: transform 0.2s;
+            /* Add a black shadow and elevation effect */
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+            transform: scale(1);
+        }
+
+        /* Add a shadow on hover */
+        .item:hover {
+            box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.4);
+            transform: scale(1.05);
+        }
+
+        /* Style for images */
+        .item img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Style for paragraphs */
+        .item p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-1.webp" alt="Grasshoppers, agile and acrobatic insects, are known for their remarkable jumping abilities." alt="Para 1">
+<p>Grasshoppers, agile and acrobatic insects, are known for their remarkable jumping abilities.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-2.webp" alt="These insects belong to the order Orthoptera and can be found in a wide range of habitats around the world." alt="Para 2">
+<p>These insects belong to the order Orthoptera and can be found in a wide range of habitats around the world.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-3.webp" alt="Grasshoppers are characterized by their long, powerful hind legs, which enable them to leap great distances." alt="Para 3">
+<p>Grasshoppers are characterized by their long, powerful hind legs, which enable them to leap great distances.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-4.webp" alt="Their bodies are typically slender and elongated, often varying in coloration to blend in with their surroundings." alt="Para 4">
+<p>Their bodies are typically slender and elongated, often varying in coloration to blend in with their surroundings.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-5.webp" alt="Grasshoppers are herbivorous, primarily feeding on plants, leaves, and grasses." alt="Para 5">
+<p>Grasshoppers are herbivorous, primarily feeding on plants, leaves, and grasses.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-6.webp" alt="They have strong mandibles that allow them to chew and consume plant material efficiently." alt="Para 6">
+<p>They have strong mandibles that allow them to chew and consume plant material efficiently.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-7.webp" alt="Grasshoppers are well adapted to a terrestrial lifestyle, with six jointed legs for walking and hopping." alt="Para 7">
+<p>Grasshoppers are well adapted to a terrestrial lifestyle, with six jointed legs for walking and hopping.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-8.webp" alt="Their hind wings, folded like a fan, provide the necessary lift and propulsion for jumping." alt="Para 8">
+<p>Their hind wings, folded like a fan, provide the necessary lift and propulsion for jumping.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-9.webp" alt="Grasshoppers produce a distinctive chirping or buzzing sound by rubbing their hind legs against their wings." alt="Para 9">
+<p>Grasshoppers produce a distinctive chirping or buzzing sound by rubbing their hind legs against their wings.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-10.webp" alt="This sound serves as a form of communication, often used in courtship and territory defense." alt="Para 10">
+<p>This sound serves as a form of communication, often used in courtship and territory defense.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-11.webp" alt="Grasshoppers undergo incomplete metamorphosis, with nymphs resembling miniature adults." alt="Para 11">
+<p>Grasshoppers undergo incomplete metamorphosis, with nymphs resembling miniature adults.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-12.webp" alt="As nymphs mature, they shed their exoskeletons, gradually developing wings and reproductive organs." alt="Para 12">
+<p>As nymphs mature, they shed their exoskeletons, gradually developing wings and reproductive organs.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-13.webp" alt="The lubber grasshopper is a striking example, known for its vibrant colors and slow, clumsy movements." alt="Para 13">
+<p>The lubber grasshopper is a striking example, known for its vibrant colors and slow, clumsy movements.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-14.webp" alt="Grasshoppers play a crucial role in ecosystems as both herbivores and prey for various predators." alt="Para 14">
+<p>Grasshoppers play a crucial role in ecosystems as both herbivores and prey for various predators.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-15.webp" alt="Birds, reptiles, amphibians, and insects are among the many animals that feed on grasshoppers." alt="Para 15">
+<p>Birds, reptiles, amphibians, and insects are among the many animals that feed on grasshoppers.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-16.webp" alt="Some grasshopper species are known for their destructive tendencies, causing damage to crops and vegetation." alt="Para 16">
+<p>Some grasshopper species are known for their destructive tendencies, causing damage to crops and vegetation.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-17.webp" alt="In certain cultures, grasshoppers are considered a delicacy and are consumed as a protein-rich food source." alt="Para 17">
+<p>In certain cultures, grasshoppers are considered a delicacy and are consumed as a protein-rich food source.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-18.webp" alt="Grasshoppers are masters of camouflage, with some species blending seamlessly into grass and foliage." alt="Para 18">
+<p>Grasshoppers are masters of camouflage, with some species blending seamlessly into grass and foliage.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-19.webp" alt="They are also known for their remarkable ability to detect and avoid predators." alt="Para 19">
+<p>They are also known for their remarkable ability to detect and avoid predators.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-20.webp" alt="Grasshoppers have large compound eyes that provide them with a wide field of vision." alt="Para 20">
+<p>Grasshoppers have large compound eyes that provide them with a wide field of vision.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-21.webp" alt="These insects are ectothermic, relying on external heat sources to regulate their body temperature." alt="Para 21">
+<p>These insects are ectothermic, relying on external heat sources to regulate their body temperature.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-22.webp" alt="Grasshoppers are most active during warm, sunny days, taking shelter during cooler periods." alt="Para 22">
+<p>Grasshoppers are most active during warm, sunny days, taking shelter during cooler periods.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-23.webp" alt="The migratory locust is a notorious grasshopper species that forms massive swarms during migrations." alt="Para 23">
+<p>The migratory locust is a notorious grasshopper species that forms massive swarms during migrations.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-24.webp" alt="Grasshopper populations are subject to periodic population explosions known as outbreaks." alt="Para 24">
+<p>Grasshopper populations are subject to periodic population explosions known as outbreaks.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-25.webp" alt="Outbreaks can be triggered by favorable environmental conditions and result in significant crop damage." alt="Para 25">
+<p>Outbreaks can be triggered by favorable environmental conditions and result in significant crop damage.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-26.webp" alt="Grasshoppers are commonly used in scientific research to study behavior, ecology, and physiology." alt="Para 26">
+<p>Grasshoppers are commonly used in scientific research to study behavior, ecology, and physiology.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-27.webp" alt="Their jumping prowess has inspired engineers and researchers working on robotics and biomimicry." alt="Para 27">
+<p>Their jumping prowess has inspired engineers and researchers working on robotics and biomimicry.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-28.webp" alt="Grasshoppers are celebrated in literature and folklore as symbols of perseverance and adaptability." alt="Para 28">
+<p>Grasshoppers are celebrated in literature and folklore as symbols of perseverance and adaptability.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-29.webp" alt="These insects are celebrated in some cultures for their role in balancing plant populations." alt="Para 29">
+<p>These insects are celebrated in some cultures for their role in balancing plant populations.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-30.webp" alt="Conservation efforts focus on understanding grasshopper populations and their interactions with ecosystems." alt="Para 30">
+<p>Conservation efforts focus on understanding grasshopper populations and their interactions with ecosystems.</p>
+        </div>
+        <div class="item">
+            <img src="https://promodapkstore.com/wp-content/uploads/2023/09/Grasshopper-31.webp" alt="Grasshoppers, with their jumping abilities and intriguing behaviors, continue to captivate the interest of scientists, naturalists, and observers worldwide." alt="Para 31">
+<p>Grasshoppers, with their jumping abilities and intriguing behaviors, continue to captivate the interest of scientists, naturalists, and observers worldwide.</p>
+        </div>
+    </div>
+</body>
+
+</html>
+

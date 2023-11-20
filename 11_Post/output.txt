@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* Container for images and paragraphs */
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        /* Style for each image and paragraph */
+        .item {
+            text-align: center;
+            margin: 10px;
+            transition: transform 0.2s;
+            /* Add a black shadow and elevation effect */
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+            transform: scale(1);
+        }
+
+        /* Add a shadow on hover */
+        .item:hover {
+            box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.4);
+            transform: scale(1.05);
+        }
+
+        /* Style for images */
+        .item img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Style for paragraphs */
+        .item p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item">
+            <img src="Image_Link_1" alt="Para 1">
+            <p>Para 1</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_2" alt="Para 2">
+            <p>Para 2</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_3" alt="Para 3">
+            <p>Para 3</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_4" alt="Para 4">
+            <p>Para 4</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_5" alt="Para 5">
+            <p>Para 5</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_6" alt="Para 6">
+            <p>Para 6</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_7" alt="Para 7">
+            <p>Para 7</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_8" alt="Para 8">
+            <p>Para 8</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_9" alt="Para 9">
+            <p>Para 9</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_10" alt="Para 10">
+            <p>Para 10</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_11" alt="Para 11">
+            <p>Para 11</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_12" alt="Para 12">
+            <p>Para 12</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_13" alt="Para 13">
+            <p>Para 13</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_14" alt="Para 14">
+            <p>Para 14</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_15" alt="Para 15">
+            <p>Para 15</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_16" alt="Para 16">
+            <p>Para 16</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_17" alt="Para 17">
+            <p>Para 17</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_18" alt="Para 18">
+            <p>Para 18</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_19" alt="Para 19">
+            <p>Para 19</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_20" alt="Para 20">
+            <p>Para 20</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_21" alt="Para 21">
+            <p>Para 21</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_22" alt="Para 22">
+            <p>Para 22</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_23" alt="Para 23">
+            <p>Para 23</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_24" alt="Para 24">
+            <p>Para 24</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_25" alt="Para 25">
+            <p>Para 25</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_26" alt="Para 26">
+            <p>Para 26</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_27" alt="Para 27">
+            <p>Para 27</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_28" alt="Para 28">
+            <p>Para 28</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_29" alt="Para 29">
+            <p>Para 29</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_30" alt="Para 30">
+            <p>Para 30</p>
+        </div>
+        <div class="item">
+            <img src="Image_Link_31" alt="Para 31">
+            <p>Para 31</p>
+        </div>
+    </div>
+</body>
+
+</html>
+

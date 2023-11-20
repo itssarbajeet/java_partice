@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GenerateHTML",
+            "request": "launch",
+            "mainClass": "GenerateHTML",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "CombineFiles",
+            "request": "launch",
+            "mainClass": "CombineFiles",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "BracketProcessor",
+            "request": "launch",
+            "mainClass": "BracketProcessor",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "BracketChecker",
+            "request": "launch",
+            "mainClass": "BracketChecker",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "BracketGenerator",
+            "request": "launch",
+            "mainClass": "BracketGenerator",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "HTMLUrlParser",
+            "request": "launch",
+            "mainClass": "HTMLUrlParser",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "RemoveBlankLines",
+            "request": "launch",
+            "mainClass": "RemoveBlankLines",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceTextInFiles",
+            "request": "launch",
+            "mainClass": "ReplaceTextInFiles",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "HTMLModifier",
+            "request": "launch",
+            "mainClass": "HTMLModifier",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "searchAnelement",
+            "request": "launch",
+            "mainClass": "recursion.Lecture02.searchAnelement",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "arrayInReverse",
+            "request": "launch",
+            "mainClass": "recursion.Lecture02.arrayInReverse",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "preInPost",
+            "request": "launch",
+            "mainClass": "recursion.Lecture02.preInPost",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "MazePath",
+            "request": "launch",
+            "mainClass": "recursion.Lecture02.MazePath",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "stair3jumpways",
+            "request": "launch",
+            "mainClass": "recursion.Lecture02.stair3jumpways",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "stairjumpways",
+            "request": "launch",
+            "mainClass": "recursion.Lecture02.stairjumpways",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.Lecture02.fibonacci",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "tureIfPow2",
+            "request": "launch",
+            "mainClass": "recursion.tureIfPow2",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "sumOfOddNums",
+            "request": "launch",
+            "mainClass": "recursion.sumOfOddNums",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "AtoThePowB",
+            "request": "launch",
+            "mainClass": "recursion.Lecture01.AtoThePowB",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "sum1toN",
+            "request": "launch",
+            "mainClass": "recursion.sum1toN",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "printNto1",
+            "request": "launch",
+            "mainClass": "recursion.Lecture01.printNto1",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "recursion.Lecture01.factorial",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "PrintName",
+            "request": "launch",
+            "mainClass": "recursion.Lecture01.PrintName",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
+            "name": "l02",
+            "request": "launch",
+            "mainClass": "recursion.l02",
+            "projectName": "Java Partice_87c99ddc"
+        },
+        {
+            "type": "java",
             "name": "P01_ReverseANumber",
             "request": "launch",
             "mainClass": "P01_ReverseANumber",
